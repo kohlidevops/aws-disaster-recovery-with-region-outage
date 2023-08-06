@@ -2,8 +2,9 @@
 
 Before start this method, Please deploy workloads using below link
 
-**https://github.com/kohlidevops/aws-disaster-recovery/blob/main/README.md
-https://github.com/kohlidevops/aws-disaster-recovery-with-backup-restore-/blob/main/README.md**
+**https://github.com/kohlidevops/aws-disaster-recovery/blob/main/README.md**
+
+**https://github.com/kohlidevops/aws-disaster-recovery-with-backup-restore-/blob/main/README.md**
 
 **Method – 2: Recover from Region Wide Outage**
 
